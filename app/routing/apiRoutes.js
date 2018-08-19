@@ -1,5 +1,4 @@
 const fs = require("fs");
-const _ = require("lodash");
 const friends = require("../data/friends");
 const express = require("express");
 var app = express();
