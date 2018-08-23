@@ -1,6 +1,6 @@
 var friendsList = [{
-        name: "Charlie",
-        photo: "http://a57.foxnews.com/images.foxnews.com/content/fox-news/person/g/lauren-green/_jcr_content/image.img.jpg/256/256/1494529888672.jpg",
+        name: "Anderson",
+        photo: "https://www.thewealthadvisor.com/sites/default/files/styles/article_hero_image_mobile/public/2017-06/140225123034-anderson-cooper-profile-full-169.jpg?itok=ir53lSzP",
         scores: [
             "3",
             "3",
@@ -15,8 +15,8 @@ var friendsList = [{
         ]
     },
     {
-        name: "Jim",
-        photo: "https://img.buzzfeed.com/buzzfeed-static/static/2015-06/7/10/campaign_images/webdr09/20-times-josh-peck-was-the-most-relatable-person--2-28523-1433687653-0_dblbig.jpg",
+        name: "Sasha",
+        photo: "https://imgix.bustle.com/uploads/image/2017/6/23/d04a4526-4438-4478-80c9-559371570e82-c770e64e-7d21-4d00-82ad-da5a6e5ee954-screen-shot-2017-06-21-at-82036-am.png?w=970&h=582&fit=crop&crop=faces&auto=format&q=70",
         scores: [
             "1",
             "1",
@@ -31,8 +31,8 @@ var friendsList = [{
         ]
     },
     {
-        name: "John",
-        photo: "https://pbs.twimg.com/profile_images/1717956431/BP-headshot-fb-profile-photo_400x400.jpg",
+        name: "Kim Chi",
+        photo: "https://cdn.jwplayer.com/thumbs/shpyAJi3-720.jpg",
         scores: [
             "2",
             "2",
@@ -47,8 +47,8 @@ var friendsList = [{
         ]
     },
     {
-        name: "Frank",
-        photo: "http://www.pngall.com/wp-content/uploads/2016/04/Happy-Person-Free-Download-PNG-180x180.png",
+        name: "Manila Luzon",
+        photo: "http://www.boom.lgbt/images/xManilaLuzonarticle.jpg.pagespeed.ic.i4oluyWkhV.jpg",
         scores: [
             "4",
             "4",
@@ -63,8 +63,8 @@ var friendsList = [{
         ]
     },
     {
-        name: "Ray",
-        photo: "https://img.buzzfeed.com/buzzfeed-static/static/2015-06/7/10/campaign_images/webdr09/20-times-josh-peck-was-the-most-relatable-person--2-28523-1433687653-0_dblbig.jpg",
+        name: "Raja",
+        photo: "https://vignette.wikia.nocookie.net/logosrupaulsdragrace/images/1/19/Raja_Gemini.jpg/revision/latest?cb=20170408044443",
         scores: [
             "1",
             "2",
@@ -79,8 +79,8 @@ var friendsList = [{
         ]
     },
     {
-        name: "Allison",
-        photo: "https://media.women.com/images/images/000/037/771/large/tinder.jpg",
+        name: "RuPaul",
+        photo: "https://static.adweek.com/adweek.com-prod/wp-content/uploads/2017/03/rupaul-mainstream-PAGE-2017.jpg",
         scores: [
             "5",
             "4",
